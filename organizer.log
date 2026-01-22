@@ -1,0 +1,48 @@
+2026-01-22 09:06:23 - INFO - ============================================================
+2026-01-22 09:06:23 - INFO - File Organizer Session Started: 2026-01-22 09:06:23.032898
+2026-01-22 09:06:23 - INFO - ============================================================
+2026-01-22 09:06:23 - INFO - Initializing File Organizer
+2026-01-22 09:06:23 - INFO - Source: C:\Users\Noble\OneDrive - ITEDU\Documents
+2026-01-22 09:06:23 - INFO - Destination: C:\Users\Noble\OneDrive - ITEDU\Documents\_Organized
+2026-01-22 09:06:23 - INFO - Backup: C:\Users\Noble\OneDrive - ITEDU\Documents\_Backup_Before_Organize
+2026-01-22 09:06:23 - INFO - Dry Run Mode: True
+2026-01-22 09:06:23 - INFO - Starting file scan...
+2026-01-22 09:06:23 - INFO - Scan complete. Found 3 files to organize
+2026-01-22 09:06:23 - INFO - Checking for duplicate files...
+2026-01-22 09:06:23 - WARNING - Found 1 sets of duplicate files
+2026-01-22 09:06:23 - WARNING - Duplicates (3 files):
+2026-01-22 09:06:23 - WARNING -   - C:\Users\Noble\OneDrive - ITEDU\Documents\Test\dup1.txt
+2026-01-22 09:06:23 - WARNING -   - C:\Users\Noble\OneDrive - ITEDU\Documents\Test\dup2.txt
+2026-01-22 09:06:23 - WARNING -   - C:\Users\Noble\OneDrive - ITEDU\Documents\Test\dup3.txt
+2026-01-22 09:06:23 - INFO - 
+============================================================
+2026-01-22 09:06:23 - INFO - PREVIEW: The following operations will be performed
+2026-01-22 09:06:23 - INFO - ============================================================
+2026-01-22 09:06:23 - INFO - 
+Documents (3 files):
+2026-01-22 09:06:23 - INFO -   - dup1.txt
+2026-01-22 09:06:23 - INFO -   - dup2.txt
+2026-01-22 09:06:23 - INFO -   - dup3.txt
+2026-01-22 09:06:23 - INFO - 
+============================================================
+2026-01-22 09:06:23 - INFO - Starting file organization...
+2026-01-22 09:06:23 - INFO - [PLANNED] MOVE: C:\Users\Noble\OneDrive - ITEDU\Documents\Test\dup1.txt -> C:\Users\Noble\OneDrive - ITEDU\Documents\_Organized\Documents\dup1.txt
+2026-01-22 09:06:23 - INFO - [DRY_RUN] MOVE: C:\Users\Noble\OneDrive - ITEDU\Documents\Test\dup1.txt -> C:\Users\Noble\OneDrive - ITEDU\Documents\_Organized\Documents\dup1.txt
+2026-01-22 09:06:23 - INFO - [PLANNED] MOVE: C:\Users\Noble\OneDrive - ITEDU\Documents\Test\dup2.txt -> C:\Users\Noble\OneDrive - ITEDU\Documents\_Organized\Documents\dup2.txt
+2026-01-22 09:06:23 - INFO - [DRY_RUN] MOVE: C:\Users\Noble\OneDrive - ITEDU\Documents\Test\dup2.txt -> C:\Users\Noble\OneDrive - ITEDU\Documents\_Organized\Documents\dup2.txt
+2026-01-22 09:06:23 - INFO - [PLANNED] MOVE: C:\Users\Noble\OneDrive - ITEDU\Documents\Test\dup3.txt -> C:\Users\Noble\OneDrive - ITEDU\Documents\_Organized\Documents\dup3.txt
+2026-01-22 09:06:23 - INFO - [DRY_RUN] MOVE: C:\Users\Noble\OneDrive - ITEDU\Documents\Test\dup3.txt -> C:\Users\Noble\OneDrive - ITEDU\Documents\_Organized\Documents\dup3.txt
+2026-01-22 09:06:23 - WARNING - DRY RUN MODE - No files were actually moved
+2026-01-22 09:06:23 - INFO - Set DRY_RUN = False in config.py to perform actual organization
+2026-01-22 09:06:23 - INFO - ============================================================
+2026-01-22 09:06:23 - INFO - SESSION SUMMARY
+2026-01-22 09:06:23 - INFO - ------------------------------------------------------------
+2026-01-22 09:06:23 - INFO - Files Scanned: 81
+2026-01-22 09:06:23 - INFO - Files to Organize: 3
+2026-01-22 09:06:23 - INFO - Files Moved: 0
+2026-01-22 09:06:23 - INFO - Files Backed Up: 0
+2026-01-22 09:06:23 - INFO - Files Skipped: 78
+2026-01-22 09:06:23 - INFO - Duplicates Found: 2
+2026-01-22 09:06:23 - INFO - Errors: 0
+2026-01-22 09:06:23 - INFO - ============================================================
+2026-01-22 09:06:23 - INFO - File organization complete!

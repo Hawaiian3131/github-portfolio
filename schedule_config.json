@@ -1,0 +1,7 @@
+{
+    "frequency": "daily",
+    "time": "09:00",
+    "enable_email": false,
+    "email_address": "",
+    "last_run": null
+}

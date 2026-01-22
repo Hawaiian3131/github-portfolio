@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2026-01-21T14:23:24.858058",
+        "event_type": "AUTH_FAIL",
+        "user": "SYSTEM",
+        "description": "Login attempt for non-existent user: Admin",
+        "severity": "INFO"
+    }
+]
