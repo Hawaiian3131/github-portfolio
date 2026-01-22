@@ -2,8 +2,6 @@
 
 ## 🎉 New Features Added!
 
-You now have 4 powerful new modules:
-
 1. **Scheduled Automation** (scheduler.py)
 2. **File Analytics** (analytics.py)  
 3. **Undo Manager** (undo_manager.py)
@@ -13,7 +11,7 @@ You now have 4 powerful new modules:
 
 ## 📥 Installation
 
-Download these 4 new files to C:\Projects\FileOrganizer:
+Download these 4 new files 
 - scheduler.py
 - analytics.py
 - undo_manager.py
